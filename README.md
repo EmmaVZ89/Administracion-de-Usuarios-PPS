@@ -26,7 +26,7 @@
  <hr>
  <h2 align="center">SPLASH SCREEN</h2>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/1-splash.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/1-splash.gif">
  </p>
  <hr>
  
@@ -34,38 +34,46 @@
  <h2 align="center">INICIO RÁPIDO</h2>
  <p align="center">Se pueden seleccionar 3 diferentes tipo de usuarios para probar la aplicación</p>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/2-inicio.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/2-inicio.gif">
  </p>
  <hr>
  
  <hr>
- <h2 align="center">CHAT PPS-4A</h2>
- <p align="center">Escritura en en chat perteneciente a PPS-4A.</p>
+ <h2 align="center">LISTADO DE USUARIOS</h2>
+ <p align="center">Se podrá ver el listado de usuarios ordenados alfabeticamente.</p>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/3-chata.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/3-listado.gif">
  </p>
  <hr>
  
  <hr>
- <h2 align="center">CHAT PPS-4B</h2>
- <p align="center">Escritura en en chat perteneciente a PPS-4B.</p>
+ <h2 align="center">ESCANEO</h2>
+ <p align="center">Es posible escanear el código QR del DNI para que se autocompleten Apellido, Nombre y número de DNI.</p>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/4-chatb.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/4-escaneo.gif">
  </p>
  <hr>
  
  <hr>
- <h2 align="center">ERROR</h2>
- <p align="center">Visualización de error al superar los 21 carácteres.</p>
+ <h2 align="center">FOTO</h2>
+ <p align="center">Se debe sacar una foto para completar los datos del nuevo usuario.</p>
  <p align="center">
-   <img width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/5-error.gif">
+   <img width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/5-foto.gif">
+ </p>
+ <hr>
+ 
+ <hr>
+ <h2 align="center">NUEVO USUARIO</h2>
+ <p align="center">Una vez completados todos los campos del formulario de manera satisfactoria y subida la foto es posible registrar el nuevo usuario.</p>
+ <p align="center">
+   <img width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/6-nuevo-usuario.gif">
  </p>
  <hr>
  
  <hr>
  <h2 align="center">VISTAS</h2>
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/6%20login.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/7%20home.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/8%20chat%20a.png">
- <img align="left" width=200 src="https://github.com/EmmaVZ89/Conversando-en-el-Aula-PPS/blob/main/readme/9%20chat%20b.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/7%20login.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/8%20formulario.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/9%20listado.png">
+ <img align="left" width=200 src="https://github.com/EmmaVZ89/Administracion-de-Usuarios-PPS/blob/main/readme/10%20escaner.png">
  
