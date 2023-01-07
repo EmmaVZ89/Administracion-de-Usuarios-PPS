@@ -1,0 +1,79 @@
+<div class="container-fluid mx-auto contenedor-gral">
+  <div class="contenedor-logo">
+    <img
+      style="
+        width: 10rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      "
+      src="../../../assets/admin-usuarios.png"
+      alt="logo"
+    />
+  </div>
+  <div class="row" style="color: #fff; margin-top: 2rem; margin-bottom: 2rem">
+    <label class="mb-1"
+      ><h6 class="mb-0 text-sm">Dirección de Correo</h6></label
+    >
+    <input
+      [(ngModel)]="email"
+      placeholder="Dirección de Correo"
+      class="input"
+      name="email"
+      type="email"
+    />
+  </div>
+  <div class="row" style="color: #fff">
+    <label><h6 class="text-sm">Contraseña</h6></label>
+    <input
+      [(ngModel)]="password"
+      placeholder="Contraseña"
+      class="input"
+      name="email"
+      type="password"
+    />
+  </div>
+  <div class="row mb-3 px-3" style="color: #fff; margin-top: 1rem">
+    <button
+      type="submit"
+      class="btn btn-ingresar text-center"
+      (click)="loginUser()"
+    >
+      Ingresar
+    </button>
+  </div>
+
+  <div class="line"></div>
+
+  <h6 class="mb-3 mr-4 mt-3 text-center" style="color: #fff">Ingreso rápido</h6>
+  <div
+    style="
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      color: #fff;
+    "
+  >
+    <div style="display: flex; justify-content: center">
+      <label class="switch">
+        <input type="checkbox" id="admin" (click)="loadFastUser(1)" />
+        <span class="slider"></span>
+      </label>
+      <p style="margin-right: 5px; margin-left: 5px">Admin</p>
+    </div>
+    <div style="display: flex; justify-content: center">
+      <label class="switch">
+        <input type="checkbox" id="usuario" (click)="loadFastUser(3)" />
+        <span class="slider"></span>
+      </label>
+      <p style="margin-right: 5px; margin-left: 5px">Usuario</p>
+    </div>
+    <div style="display: flex; justify-content: center">
+      <label class="switch">
+        <input type="checkbox" id="invitado" (click)="loadFastUser(2)" />
+        <span class="slider"></span>
+      </label>
+      <p style="margin-right: 5px; margin-left: 5px">Invitado</p>
+    </div>
+  </div>
+</div>
